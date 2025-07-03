@@ -1,9 +1,8 @@
-body {
-    background-color: rgb(0, 0, 0);
-    color: aliceblue;
+body{
+    background-color: black;
+    color: white;
     font-family:"Chakra Petch" sans-serif; 
-margin: 0px;
-margin: 0px;
+    margin: 0px;
 }
 
 h1 {
@@ -20,13 +19,13 @@ header{
     color: rgb(42, 122, 228);
     font-family:"Chakra Petch" sans-serif;
 }
-section{
+section {
     background: rgb(184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    .chamada-texto{
-        margin-right: 5%;
-    }
+}
+.chamada-texto {
+    margin-right: 5%;
 }
