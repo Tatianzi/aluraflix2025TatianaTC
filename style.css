@@ -3,6 +3,7 @@ body {
     color: aliceblue;
     font-family:"Chakra Petch" sans-serif; 
 margin: 0px;
+margin: 0px;
 }
 
 h1 {
@@ -14,4 +15,8 @@ p {
 }
 header{
     border-bottom: solid 2px rgb(42, 122, 228);
+    margin: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+    font-family:"Chakra Petch" sans-serif;
 }
