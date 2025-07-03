@@ -20,3 +20,8 @@ header{
     color: rgb(42, 122, 228);
     font-family:"Chakra Petch" sans-serif;
 }
+section{
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
